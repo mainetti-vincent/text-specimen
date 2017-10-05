@@ -24,3 +24,6 @@ respond to all devices.
 Anew way forward.
 
 #Text specimen concepts
+![text-specimen-phone](img/text-specimen-phone.png)
+![text-specimen-tablet](img/text-specimen-tablet.png)
+![text-specimen-browser](img/text-specimen-browser.png)
