@@ -1,4 +1,4 @@
-# text-specimen
+# Text Specimen
 - [Haiku First Drafts](#haiku-first-drafts)
 - [Text Specimen Concepts](#text-specimen-concepts)
 
