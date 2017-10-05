@@ -1,4 +1,7 @@
-# Haiku 
+- [Haiku First Drafts](#haiku-first-drafts)
+- [Text Specimen Concepts](#text-specimen-concepts)
+
+# Haiku First Drafts
 - Mobile first design;
 
 Adapt, Respond, Overcome,
@@ -23,7 +26,7 @@ respond to all devices.
 
 Anew way forward.
 
-#Text specimen concepts
+# Text Specimen Concepts
 ![text-specimen-phone](img/text-specimen-phone.png)
 ![text-specimen-tablet](img/text-specimen-tablet.png)
 ![text-specimen-browser](img/text-specimen-browser.png)
