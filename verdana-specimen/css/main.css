@@ -1,10 +1,11 @@
 html {
+background-color: #ccc;
 font: 100%/1.15 sans-serif;
 margin-left: 2%;
 margin-right: 2%;
 }
 h1 {
-color: #9999cc;
+color: #FFF;
 font-size: 7em;
 text-align: center;
 margin-top: -0.45em;
