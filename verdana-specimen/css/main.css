@@ -1,5 +1,4 @@
 html {
-background-color: #ccc;
 font: 100%/1.15 sans-serif;
 margin-left: 2%;
 margin-right: 2%;
@@ -22,6 +21,7 @@ p.list-title {
 font-size: 60%;
 }
 div.sample {
+background-color: #CCC;
 width: 40%;
 font-size: 2em;
 margin-left: 5%;
