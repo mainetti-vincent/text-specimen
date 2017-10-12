@@ -1,7 +1,7 @@
 # Text Specimen
 - [Haiku First Drafts](#haiku-first-drafts)
-- [Text Specimen Concepts](#text-specimen-concepts)
 - [1 page web haiku](https://mainetti-vincent.github.io/text-specimen/rwd-haiku/index.html)
+- [Text Specimen Concepts](#text-specimen-concepts)
 
 ## Haiku First Drafts
 - Mobile first design;
