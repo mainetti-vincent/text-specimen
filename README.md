@@ -1,6 +1,6 @@
 # Text Specimen
 - [Haiku First Drafts](#haiku-first-drafts)
-- [1 page web haiku](https://mainetti-vincent.github.io/text-specimen/rwd-haiku/index.html)
+- [One page web haiku](#create-one-page-website-to-display-haiku) or [view site](https://mainetti-vincent.github.io/text-specimen/rwd-haiku/index.html)
 - [Text Specimen Concepts](#text-specimen-concepts)
 
 ## Haiku First Drafts
@@ -27,6 +27,9 @@ become responsive.
 respond to all devices.
 
 Anew way forward.
+
+### Create one page website to display haiku
+[View page](https://mainetti-vincent.github.io/text-specimen/rwd-haiku/index.html)
 
 ## Text Specimen Concepts
 ![text-specimen-phone](img/text-specimen-phone.png)
