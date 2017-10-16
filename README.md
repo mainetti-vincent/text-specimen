@@ -2,6 +2,7 @@
 - [Haiku First Drafts](#haiku-first-drafts)
 - [One page web haiku](#create-one-page-website-to-display-haiku) or [view site](https://mainetti-vincent.github.io/text-specimen/rwd-haiku/index.html)
 - [Text Specimen Concepts](#text-specimen-concepts)
+- [Style Tiles](#style-tiles)
 
 ## Haiku First Drafts
 - Mobile first design;
@@ -35,3 +36,6 @@ Anew way forward.
 ![text-specimen-phone](img/text-specimen-phone.png)
 ![text-specimen-tablet](img/text-specimen-tablet.png)
 ![text-specimen-browser](img/text-specimen-browser.png)
+
+## Style Tiles
+![style-tile-01](img/style-tile-01.jpg)
