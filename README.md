@@ -39,3 +39,4 @@ Anew way forward.
 
 ## Style Tiles
 ![style-tile-01](img/style-tile-01.jpg)
+![style-tile-02](img/style-tile-02.jpg)
