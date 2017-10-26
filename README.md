@@ -32,7 +32,7 @@ Anew way forward.
 ### Create one page website to display haiku
 [View page](https://mainetti-vincent.github.io/text-specimen/rwd-haiku/index.html)
 
-### Create one page textspecimen website
+### Create one page text specimen website
 [View page](https://mainetti-vincent.github.io/text-specimen/type-spec-03/index.html)
 
 ## Text Specimen Concepts
