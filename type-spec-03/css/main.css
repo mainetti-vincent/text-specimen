@@ -1,0 +1,90 @@
+body {
+  font-family: Verdana, sans-serif;
+}
+
+div.header {
+  background-color: #696;
+  margin-top: -3em;
+  margin-right: -1em;
+  margin-bottom: 8em;
+  margin-left: -1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+h1 {
+  font-size: 5.75em;
+  margin-top: .5em;
+  margin-right: -1em;
+  margin-bottom: 0em;
+  margin-left: -1em;
+  padding: 0em, 1em, 0em, 1em,;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+h2 {
+  font-size: 1.15em;
+  margin-top: 0;
+  margin-left: 2.5em
+}
+
+h3 {
+  font-size: 1.65em;
+  color: #999;
+  margin-left: 10%;
+  margin-bottom: 1em;
+  margin-top: 2em
+}
+
+.top {
+  margin-top: -3em;
+}
+
+div.characters {
+  text-align: center;
+  font-size: 1.25em;
+  margin-top: 0em;
+  margin-bottom: 2em;
+}
+
+div.try-it {
+  font-size: 1.25em;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+div.history {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+
+@media (min-width: 60em) {
+
+
+figure.char-col-1 {
+  margin-left: 5%
+  margin-right: 5%
+  max-width: 45%;
+  float:left;
+}
+
+figure.char-col-2 {
+  max-width: 45%;
+  float: right;
+}
+
+div.history {
+  columns: 2;
+  column-gap: 2em;
+}
+
+
+
+
+
+
+
+}
+
