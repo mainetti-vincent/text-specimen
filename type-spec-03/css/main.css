@@ -63,17 +63,30 @@ div.history {
 @media (min-width: 60em) {
 
 
-figure.char-col-1 {
-  margin-left: 5%
-  margin-right: 5%
-  max-width: 45%;
+figure.char-col-1 {;
+  max-width: 40%;
+  margin-right: 5%;
+  margin-left: 5%;
   float:left;
 }
 
 figure.char-col-2 {
-  max-width: 45%;
+  max-width: 40%;
+  margin-right: 5%;
+  margin-left: 5%;
   float: right;
 }
+
+section {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+/*
+section.try it {
+clear: both;
+}
+ */
 
 div.history {
   columns: 2;
