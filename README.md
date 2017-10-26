@@ -33,7 +33,7 @@ Anew way forward.
 [View page](https://mainetti-vincent.github.io/text-specimen/rwd-haiku/index.html)
 
 ### Create one page textspecimen website
-[View page] (https://mainetti-vincent.github.io/text-specimen/type-spec-03/index.html)
+[View page](https://mainetti-vincent.github.io/text-specimen/type-spec-03/index.html)
 
 ## Text Specimen Concepts
 ![text-specimen-phone](img/text-specimen-phone.png)
