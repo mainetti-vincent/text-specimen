@@ -32,6 +32,9 @@ Anew way forward.
 ### Create one page website to display haiku
 [View page](https://mainetti-vincent.github.io/text-specimen/rwd-haiku/index.html)
 
+### Create one page textspecimen website
+[View page] (https://mainetti-vincent.github.io/text-specimen/type-spec-03/index.html)
+
 ## Text Specimen Concepts
 ![text-specimen-phone](img/text-specimen-phone.png)
 ![text-specimen-tablet](img/text-specimen-tablet.png)
