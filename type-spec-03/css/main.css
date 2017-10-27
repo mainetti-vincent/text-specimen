@@ -1,51 +1,69 @@
 body {
   font-family: Verdana, sans-serif;
+  color: #666;
 }
 
-div.header {
-  background-color: #696;
+:focus {
+  outline: 0;
+  border-bottom: 1px solid #000;
+}
+
+#banner {
+  background-color: #060;
+  text-align: center;
   margin-top: -3em;
   margin-right: -1em;
   margin-bottom: 8em;
   margin-left: -1em;
-  padding-top: 1em;
+  padding-top: 2em;
   padding-bottom: 1em;
 }
 
-h1 {
+#banner div {
+  display: inline-block;
+ }
+
+#banner h1 {
   font-size: 5.75em;
+  color: #9C9;
   margin-top: .5em;
-  margin-right: -1em;
   margin-bottom: 0em;
-  margin-left: -1em;
-  padding: 0em, 1em, 0em, 1em,;
   text-align: center;
   letter-spacing: 2px;
 }
 
-h2 {
-  font-size: 1.15em;
+#banner span.ana {
+  color: #FFF;
+}
+
+#banner h2 {
+  text-align: right;
+  font-size: 1em;
+  color: #FFF;
   margin-top: 0;
-  margin-left: 2.5em
 }
 
 h3 {
   font-size: 1.65em;
-  color: #999;
+  color: #9C9;
   margin-left: 10%;
-  margin-bottom: 1em;
-  margin-top: 2em
+  margin-bottom: 2em;
+  margin-top: 5em
 }
 
 .top {
   margin-top: -3em;
 }
 
+p.char-head {
+  font-size: 0.875em;
+}
+
 div.characters {
   text-align: center;
   font-size: 1.25em;
   margin-top: 0em;
-  margin-bottom: 2em;
+  margin-bottom: 2.75em;
 }
 
 div.try-it {
@@ -59,6 +77,18 @@ div.history {
   margin-right: 20%;
 }
 
+
+footer {
+  position: relative;
+  right: 0em;
+  bottom: 0;
+  left: 0em;
+  padding: 1.15em;
+  background-color: #060;
+  text-align: center;
+  color:#FFF;
+  font-size: .875em;
+}
 
 @media (min-width: 60em) {
 
@@ -82,11 +112,12 @@ section {
   margin-right: 20%;
 }
 
-/*
+
 section.try it {
+margin-top: 2em;
 clear: both;
 }
- */
+
 
 div.history {
   columns: 2;
