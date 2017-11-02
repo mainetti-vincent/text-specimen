@@ -1,3 +1,22 @@
+nav a {
+  color: #FFF;
+  text-decoration: none;
+  }
+
+nav a:hover {
+  color: #696;
+  } /*-- interactivity --*/
+
+nav ul {
+  text-align: center
+  }
+
+nav li {
+  display: inline;
+  margin-left: .5em;
+  }
+
+
 body {
   font-family: Verdana, sans-serif;
   color: #666;
@@ -77,6 +96,17 @@ div.history {
   margin-right: 20%;
 }
 
+div.bio {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+div.cite {
+  text-decoration: none;
+  margin-left: 20%;
+  margin-right: 20%;
+  color: #030;
+}
 
 footer {
   position: relative;
@@ -90,8 +120,7 @@ footer {
   font-size: .875em;
 }
 
-@media (min-width: 60em) {
-
+@media (min-width: 50em) {
 
 figure.char-col-1 {;
   max-width: 40%;
