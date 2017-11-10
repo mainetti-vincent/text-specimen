@@ -27,6 +27,7 @@ nav li {
 body {
   font-family: Verdana, sans-serif;
   color: #666;
+  margin: 0;
 }
 
 :focus {
@@ -37,10 +38,7 @@ body {
 #banner {
   background-color: #060;
   text-align: center;
-  margin-top: -3em;
-  margin-right: -1em;
   margin-bottom: 8em;
-  margin-left: -1em;
   padding-top: 2em;
   padding-bottom: 1em;
 }
@@ -52,7 +50,7 @@ body {
 #banner h1 {
   font-size: 5.75em;
   color: #9C9;
-  margin-top: .5em;
+  margin-top: 0;
   margin-bottom: 0em;
   text-align: center;
   letter-spacing: 2px;
@@ -116,10 +114,17 @@ img {
 }
 
 nav.cite {
-  text-decoration: none;
   margin-left: 20%;
   margin-right: 20%;
+}
+
+nav.cite a {
+  text-decoration: none;
   color: #030;
+}
+
+nav.cite a:hover {
+  color: #696;
 }
 
 footer {
