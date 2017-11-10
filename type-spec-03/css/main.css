@@ -85,7 +85,7 @@ p.char-head {
 
 div.characters {
   text-align: center;
-  font-size: 1.25em;
+  font-size: 1.1em;
   margin-top: 0em;
   margin-bottom: 2.75em;
 }
@@ -140,6 +140,10 @@ footer {
 }
 
 @media (min-width: 75em) {
+
+#banner h1 {
+  font-size: 5.75em;
+}
 
 figure.char-col-1 {;
   max-width: 40%;
