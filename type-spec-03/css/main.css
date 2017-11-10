@@ -139,7 +139,7 @@ footer {
   font-size: .875em;
 }
 
-@media (min-width: 50em) {
+@media (min-width: 75em) {
 
 figure.char-col-1 {;
   max-width: 40%;
