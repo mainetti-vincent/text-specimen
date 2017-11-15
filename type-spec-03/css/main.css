@@ -140,7 +140,7 @@ footer {
   font-size: .875em;
 }
 
-.return {
+a.return {
   color:#FFF;
   text-decoration: none;
 }
